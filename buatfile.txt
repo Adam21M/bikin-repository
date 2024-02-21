@@ -8,3 +8,4 @@ tambah lagi
 ada yang dihapus
 dan ditambahkan
 6
+waktu inisiasi diitung commit pertama karena masuk perubahan repository/folder file
